@@ -1,4 +1,4 @@
-# ants
+# ANTS
 <picture>
   <img alt="Баннер проекта" src="images/banner-universal.png">
 </picture>
