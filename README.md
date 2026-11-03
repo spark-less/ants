@@ -1,7 +1,5 @@
-# ANTS
-<picture>
-  <img src="https://github.com/spark-less/ants/raw/main/images/banner-universal.png">
-</picture>
+# ANTS 
+![image alt](https://github.com/spark-less/ants/blob/f8e025f1642f55ffd01ff9c63f8b69f07e0aba78/images/banner-universal.png)
 
 Minecraft modpack based on Mr.Freeze's "ANTS" series.
 
