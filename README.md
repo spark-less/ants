@@ -5,7 +5,7 @@ Minecraft modpack based on Mr.Freeze's "ANTS" series.
 
 
 
-
+> [!IMPORTANT]
 > A fan-made, non-commercial Minecraft modpack. Currently in alpha.
 
 **This project is unofficial. I am not MrFreeze and I am not affiliated with him in any way.**
@@ -17,6 +17,7 @@ Minecraft modpack based on Mr.Freeze's "ANTS" series.
 
 ![Static Badge](https://img.shields.io/badge/Mod%20Loader%20Forge-%23?style=flat&color=%23403142)
 ![Static Badge](https://img.shields.io/badge/Minecraft%201.6.4-%23?color=%23025335)
+![GitHub Repo stars](https://img.shields.io/github/stars/spark-less/ants?style=flat&color=%23403142)
 ## Releases
 
 No releases yet.
