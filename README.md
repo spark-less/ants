@@ -23,7 +23,49 @@ No releases yet.
 
 ## Installation
 
-Work in progress.
+> Works only with Prism Launcher, MultiMC and their forks.
+
+<details>
+<summary><b>Step 1. Download Gulliver Mod</b></summary>
+
+Gulliver Mod is not included in the pack because of its license, so you download it from the author's link.
+
+1. Download the installer: [gulliver-forged-965-installer-0.14.3-MC1.6.4.jar](https://www.mediafire.com/download/74rm7ekaazvdime/gulliver-forged-965-installer-0.14.3-MC1.6.4.jar)
+2. Double-click the file.
+3. In the window that appears, choose **Extract** (not Install client or Install server) and pick any folder. Remember where you saved it.
+
+[screenshot 1]
+
+</details>
+
+<details>
+<summary><b>Step 2. Import the pack</b></summary>
+
+1. Launch Prism Launcher.
+2. Click **Add Instance**.
+3. Open the **Import** tab.
+4. Click **Browse** and select the pack archive (Ants v0.1 Core, or Ants v0.1 Core E4MC-RETRO).
+5. Click **OK**.
+
+[screenshot 2]
+
+</details>
+
+<details>
+<summary><b>Step 3. Install Gulliver Mod</b></summary>
+
+1. Select the new instance and click **Edit** in the side panel.
+2. Open the **Version** tab.
+3. Click **Add to Minecraft.jar**.
+4. Select `gulliver-forged-965-universal-0.14.3-MC1.6.4` from the folder you chose in Step 1.
+
+Do not put it in the `mods` folder.
+
+[screenshot 3]
+
+</details>
+
+Done. Launch the instance and play.
 
 ## Mods Used
 
