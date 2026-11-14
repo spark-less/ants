@@ -34,20 +34,41 @@ Gulliver Mod is not included in the pack because of its license, so you download
 2. Double-click the file.
 3. In the window that appears, choose **Extract** (not Install client or Install server) and pick any folder. Remember where you saved it.
 
-[screenshot 1]
+<img src="images/step1.png" alt="Extract window" width="362">
 
 </details>
 
 <details>
 <summary><b>Step 2. Import the pack</b></summary>
+  
+
 
 1. Launch Prism Launcher.
+
+<br>
+
+  <img src="images/step2.png" width="820">
+
+<br>
+
 2. Click **Add Instance**.
+
+<br>
+
+  <img src="images/step3.png" width="820">
+
+<br>
+
+
 3. Open the **Import** tab.
 4. Click **Browse** and select the pack archive (Ants v0.1 Core, or Ants v0.1 Core E4MC-RETRO).
 5. Click **OK**.
 
-[screenshot 2]
+<br>
+
+  <img src="images/step4.png" width="820">
+
+<br>
 
 </details>
 
@@ -56,12 +77,25 @@ Gulliver Mod is not included in the pack because of its license, so you download
 
 1. Select the new instance and click **Edit** in the side panel.
 2. Open the **Version** tab.
+
+<br>
+
+  <img src="images/step5.png" width="820">
+
+<br>
+
 3. Click **Add to Minecraft.jar**.
 4. Select `gulliver-forged-965-universal-0.14.3-MC1.6.4` from the folder you chose in Step 1.
 
+<br>
+
+  <img src="images/step6.png" width="820">
+
+<br>
+
+
 Do not put it in the `mods` folder.
 
-[screenshot 3]
 
 </details>
 
