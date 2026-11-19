@@ -10,7 +10,7 @@ Minecraft modpack based on Mr.Freeze's "ANTS" series.
 
 
 ## Project Status
-> An independent, unofficial recreation of MrFreeze's "Ants" modpack, rebuilt from the videos and currently in alpha.
+``` An independent, unofficial recreation of MrFreeze's "Ants" modpack, rebuilt from the videos and currently in alpha. ```
 
 ![Static Badge](https://img.shields.io/badge/Mod%20Loader%20Forge-%23?style=flat&color=%23403142)
 ![Static Badge](https://img.shields.io/badge/Minecraft%201.6.4-%23?color=%23025335)
