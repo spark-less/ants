@@ -10,7 +10,7 @@ Minecraft modpack based on Mr.Freeze's "ANTS" series.
 
 
 ## Project Status
-```text
+```plaintext
 An independent, unofficial recreation of MrFreeze's "Ants" modpack, rebuilt from the videos and currently in alpha. 
 ```
 
