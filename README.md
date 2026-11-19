@@ -16,7 +16,21 @@ Minecraft modpack based on Mr.Freeze's "ANTS" series.
 ![Static Badge](https://img.shields.io/badge/Minecraft%201.6.4-%23?color=%23025335)
 ## Releases
 
-No releases yet.
+
+\* *World generation is vanilla and differs from the original pack; the original's co-op survival can be played with a friend using the E4MC-RETRO version.*
+
+
+Latest: ANTS v0.1
+
+All releases: [Releases page](https://github.com/spark-less/ants/releases/)
+
+Latest: [ANTS v0.1](https://github.com/spark-less/ants/releases/tag/v0.1)
+
+| File | Description |
+|------|-------------|
+| Ants v0.1 Core | Base pack, no online or LAN mods |
+| Ants v0.1 Core E4MC-RETRO | Same pack plus e4mc Retro for co-op over the internet |
+
 
 ## Installation
 
