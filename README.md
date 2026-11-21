@@ -74,13 +74,16 @@ Gulliver Mod is not included in the pack because of its license, so you download
 
 3. Open the **Import** tab.
 4. Click **Browse** and select the pack archive (Ants v0.1 Core, or Ants v0.1 Core E4MC-RETRO).
-5. Click **OK**.
 
 <br>
 
   <img src="images/step4.png" width="820">
 
 <br>
+
+5. Click **OK**.
+
+
 
 </details>
 
