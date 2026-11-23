@@ -21,8 +21,6 @@ An independent, unofficial recreation of MrFreeze's "Ants" modpack, rebuilt from
 \* *World generation is vanilla and differs from the original pack; the original's co-op survival can be played with a friend using the E4MC-RETRO version.*
 
 
-Latest: ANTS v0.1
-
 All releases: [Releases page](https://github.com/spark-less/ants/releases/)
 
 Latest: [ANTS v0.1](https://github.com/spark-less/ants/releases/tag/v0.1)
