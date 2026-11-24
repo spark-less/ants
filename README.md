@@ -17,6 +17,10 @@ An independent, unofficial recreation of Mr.Freeze's "Ants" modpack, rebuilt fro
 
 Nothing here yet
 
+## Content
+
+Coming Soon
+
 ## Releases
 
 
