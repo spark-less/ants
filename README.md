@@ -7,11 +7,11 @@ Minecraft modpack based on Mr.Freeze's "ANTS" series.
 ![Static Badge](https://img.shields.io/badge/Minecraft%201.6.4-%23?color=%23025335)
 
 > [!IMPORTANT]
-> This project is unofficial. I am not MrFreeze and I am not affiliated with him in any way.
+> This project is unofficial. I am not Mr.Freeze and I am not affiliated with him in any way.
 
 
 ## Project Status
-An independent, unofficial recreation of MrFreeze's "Ants" modpack, rebuilt from the videos and currently in alpha. 
+An independent, unofficial recreation of Mr.Freeze's "Ants" modpack, rebuilt from the videos and currently in alpha. 
 
 
 
