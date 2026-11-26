@@ -15,11 +15,11 @@ An independent, unofficial recreation of Mr.Freeze's "Ants" modpack, rebuilt fro
 
 ## Chronology
 
-Nothing here yet
+Coming soon...
 
 ## Content
 
-Coming Soon...
+Coming soon...
 
 ## Releases
 
