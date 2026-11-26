@@ -19,7 +19,7 @@ Nothing here yet
 
 ## Content
 
-Coming Soon
+Coming Soon...
 
 ## Releases
 
