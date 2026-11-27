@@ -152,7 +152,7 @@ All mods listed above belong to their respective authors.
 
 ## Wiki
 
-The GitHub wiki is a work in progress.
+The GitHub wiki is a work in progress.(delayed)
 
 ## Official Links
 
