@@ -127,7 +127,7 @@ Done. Launch the instance and play.
 
 ## Mods Used
 
-Where a mod is not available on CurseForge, the link leads to another source (Modrinth, GitHub or an archived forum thread).
+Where a mod is not available on CurseForge, the link leads to another source.
 
 | Mod | Version |
 | --- | --- |
