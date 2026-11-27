@@ -22,7 +22,7 @@ Coming soon...
 Coming soon...
 
 ### In progress:
-> Chronology
+> Chronology and Content
 
 
 
